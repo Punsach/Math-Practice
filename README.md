@@ -9,7 +9,7 @@ Framework: PHP Laravel
 
 Our creative project is to create a website that allows users to practice answering different types of test questions. The questions would be stored in a database, and we would rank them by difficulty. The user can filter what type of questions they get based on difficulty/subject. The questions will each be worth certain points, and the website will keep track of the points the user has. Additionally, there will be leaderboards to rank users by how many points they have. 
 
-## Rubric ##  
+## Rubric 
 
 * User can successfully create account with username and password: 5 points 
 * User can successfully login: 5 points
@@ -30,7 +30,7 @@ Our creative project is to create a website that allows users to practice answer
 * Passwords are encrypted and stored safely: 2 points
 * Site is intuitive to use/navigate and is visually appealing: 5 points 
 
-## Creative Portion: 15 points ##  
+## Creative Portion: 15 points  
 * Add a profile page that displays all of the questions the user has answered correctly
 * Give the user statistics on how many questions of each difficulty they have answered correctly 
 * A level system that tells the user what level they are based on the number of points they have 
