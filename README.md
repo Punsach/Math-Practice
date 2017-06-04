@@ -35,4 +35,3 @@ Our creative project is to create a website that allows users to practice answer
 * Give the user statistics on how many questions of each difficulty they have answered correctly 
 * A level system that tells the user what level they are based on the number of points they have 
 
-Link to Site: http://ec2-52-14-72-236.us-east-2.compute.amazonaws.com/
